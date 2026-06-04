@@ -1,2 +1,2 @@
 # inventory-forecast
-Inventory forecast project
+Inventory forecast project - UNDER CONSTRUCTION
